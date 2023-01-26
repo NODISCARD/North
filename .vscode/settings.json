@@ -24,5 +24,7 @@
         "system_error": "cpp",
         "type_traits": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "C_Cpp.formatting": "vcFormat"
 }
